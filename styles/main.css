@@ -1,0 +1,26 @@
+body {
+    font-family: 'Gotham Pro', sans-serif;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style-type: none;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
